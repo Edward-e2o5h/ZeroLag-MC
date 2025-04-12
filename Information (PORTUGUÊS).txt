@@ -1,0 +1,49 @@
+Olá! Bem-vindo ao projeto ZeroLag MC! Um Minecraft otimizado para computadores fracos.
+O projeto foi iniciado em 2025 por mim, Edward.
+
+PERGUNTAS FREQUENTES SOBRE O MOD:
+1 - Como inicio o jogo?
+Basta abrir o arquivo ".bat" ou ".exe" do mod que você quer usar.
+Quando iniciar, provavelmente aparecerá uma seção chamada "Username" — digite seu apelido e pressione Enter.
+
+2 - O que é OpenGL?
+As modificações chamadas "OpenGL" usam o processador como placa gráfica para rodar o jogo.
+Isso é útil se sua placa de vídeo não suporta o jogo ou se você não tem os drivers corretos instalados.
+
+Se o jogo não iniciar, tente abrir dessa forma.
+
+3 - Como adiciono mais RAM na versão JAVA?
+Atualmente não é possível adicionar mais RAM na versão 1.8.
+Para reduzir o tamanho do jogo, decidi remover o runtime de 64 BITS.
+
+Se quiser adicionar RAM em outras versões, clique com o botão direito no arquivo ".BAT" que você usa para abrir o jogo e clique em "Editar".
+Depois, procure a parte que diz "-XmX" e a quantidade de RAM em megabytes — altere para o valor que deseja.
+Atenção: Se você tiver um sistema de 32 bits, não poderá usar mais que 1024M.
+
+4 - Como mudar minha skin no Minecraft JAVA?
+Usando a plataforma "ely.gg". Existem vídeos no YouTube com mais informações.
+Você também pode usar um pacote de texturas que permita mudar skin — pesquise na internet.
+
+5 - Por que o jogo não inicia?
+Pode haver várias razões:
+
+Seus drivers da placa de vídeo estão desatualizados. Tente usar o modo "OpenGL".
+
+Seu antivírus está bloqueando o jogo e pode ter excluído arquivos necessários. Desative e extraia o jogo novamente.
+
+Seu sistema operacional é muito antigo (como Windows 2000 ou XP).
+
+O arquivo está corrompido. Tente extrair com o 7-Zip e baixar com o Free Download Manager.
+
+O arquivo está dentro de várias pastas com nomes muito longos. Mova a pasta para a área de trabalho.
+
+O script .BAT pode não funcionar corretamente no seu PC. Tente editar com o ChatGPT.
+
+Essas são as causas mais comuns, mas podem existir outras.
+
+6 - Quais são suas redes sociais ou formas de contato?
+Canal do YouTube:
+https://www.youtube.com/@Edward-e2o5h
+
+7 - Posso postar o ZeroLag MC no meu site / canal do YouTube / etc.?
+Sim, desde que você credite o criador Edward e não use encurtadores de links para ganhar dinheiro.

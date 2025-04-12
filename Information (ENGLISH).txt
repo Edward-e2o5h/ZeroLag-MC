@@ -1,0 +1,51 @@
+////////////// ENGLISH //////////////////
+
+Hello! Welcome to the ZeroLag MC project! A Minecraft optimized for low-end computers.
+The project was started in 2025 by me, Edward.
+
+FREQUENTLY ASKED QUESTIONS ABOUT THE MOD:
+
+1 - How do I start the game?
+Simply open the ".bat" or ".exe" file with the mod you want to use.
+When you start it, a "Username" section will likely appear—there, enter your nickname and press Enter.
+
+2 - What is OpenGL?
+The modifications called "OpenGL" use your processor as a graphics card to run the game.
+This is very useful if your graphics card doesn’t support the game or if you don’t have the proper drivers installed.
+
+If the game doesn’t start, try launching it that way.
+
+3 - How do I add more RAM to the JAVA version?
+It's currently not possible to add more RAM to version 1.8. To reduce the game’s size, I decided to remove the 64-BIT runtime.
+
+If you want to add more RAM in other versions, right-click the ".BAT" file you use to open the game, and click "Edit".
+Then look for the section that says "-XmX" and the amount of RAM in megabytes—change it to the memory you want.
+Note: If you have 32-bit, you can't assign more than 1024M.
+
+4 - How can I change my skin in Minecraft JAVA?
+By using the "ely.gg" platform. You can find more videos on YouTube for more information.
+You can also use a texture pack that allows you to add a skin—search online for more info.
+
+5 - Why doesn’t the game start?
+It might not start for several reasons:
+
+Your graphics card drivers are outdated and can’t run the game. Try using "OpenGL" mode.
+
+Your antivirus is blocking the game and may have deleted necessary files. If so, disable it and extract the game again.
+
+Your operating system is too old to support the game, like Windows 2000 or XP.
+
+The file is corrupted and the data is damaged. Try extracting it with 7-Zip and download it using Free Download Manager.
+
+The file is located inside many folders with long names. Try moving the folder to your desktop.
+
+The .BAT script I made doesn’t work well on your PC and gives errors (rare, but possible). In that case, try editing it with ChatGPT to fix the problem.
+
+These are the main causes—there are others, but they are rare.
+
+6 - What are your social networks or contact methods?
+YouTube channel: 
+https://www.youtube.com/@Edward-e2o5h
+
+7 - Can I upload ZeroLag MC to my website/YouTube channel/etc.?
+Yes, as long as you credit the creator Edward and don’t use any kind of link shortener to generate income.

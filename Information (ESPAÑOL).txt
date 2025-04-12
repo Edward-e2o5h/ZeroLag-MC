@@ -1,0 +1,48 @@
+¡Hola! Bienvenido al proyecto ZeroLag MC, un Minecraft optimizado para computadoras de bajos recursos.
+El proyecto fue iniciado en 2025 por mí, Edward.
+
+PREGUNTAS FRECUENTES SOBRE EL MOD:
+1 - ¿Cómo inicio el juego?
+Simplemente abre el archivo ".bat" o ".exe" del mod que deseas usar.
+Cuando se inicie, probablemente aparezca una sección llamada “Username”; allí escribe tu apodo y presiona Enter.
+
+2 - ¿Qué es OpenGL?
+Las modificaciones llamadas “OpenGL” usan tu procesador como tarjeta gráfica para ejecutar el juego.
+Esto es útil si tu tarjeta gráfica no soporta el juego o si no tienes los drivers adecuados instalados.
+Si el juego no inicia, intenta ejecutarlo de esa forma.
+
+3 - ¿Cómo añado más RAM a la versión JAVA?
+Actualmente no es posible añadir más RAM a la versión 1.8.
+Para reducir el tamaño del juego, decidí eliminar el entorno de ejecución de 64 BITS.
+
+Si deseas añadir más RAM en otras versiones, haz clic derecho sobre el archivo ".BAT" que usas para iniciar el juego y selecciona “Editar”.
+Luego, busca la sección que dice "-XmX" y la cantidad de RAM en megabytes, y cámbiala por la memoria que deseas asignar.
+Nota: Si tienes 32 bits, no puedes asignar más de 1024M.
+
+4 - ¿Cómo puedo cambiar mi skin en Minecraft JAVA?
+Usando la plataforma "ely.gg". Puedes encontrar más información en videos de YouTube.
+También puedes usar un paquete de texturas que te permita añadir una skin; busca más información en Internet.
+
+5 - ¿Por qué no inicia el juego?
+Puede no iniciar por varias razones:
+
+Los controladores de tu tarjeta gráfica están desactualizados. Intenta usar el modo "OpenGL".
+
+Tu antivirus está bloqueando el juego y puede haber eliminado archivos necesarios. Desactívalo y vuelve a extraer el juego.
+
+Tu sistema operativo es muy antiguo (como Windows 2000 o XP).
+
+El archivo está corrupto. Intenta extraerlo con 7-Zip y descarga usando Free Download Manager.
+
+El archivo está dentro de muchas carpetas con nombres largos. Muévelo al escritorio.
+
+El script .BAT que hice no funciona bien en tu PC. Intenta editarlo con ChatGPT.
+
+Estas son las causas principales, aunque puede haber otras más raras.
+
+6 - ¿Cuáles son tus redes sociales o formas de contacto?
+Canal de YouTube:
+https://www.youtube.com/@Edward-e2o5h
+
+7 - ¿Puedo subir ZeroLag MC a mi sitio web / canal de YouTube / etc.?
+Sí, siempre que des crédito al creador Edward y no uses acortadores de enlaces para ganar dinero.
