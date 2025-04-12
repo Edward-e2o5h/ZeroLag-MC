@@ -51,3 +51,15 @@ Hacer que Minecraft corra como en sus mejores tiempos: **rápido, fluido y sin c
 - Gente con PC de bajos recursos.
 - Fans de las versiones pre-1.13.
 - YouTubers o streamers que buscan rendimiento sin perder estética.
+
+---
+
+## 📜 Licencia
+
+Este proyecto es de uso libre bajo la licencia [MIT](LICENSE).  
+Puedes usarlo, modificarlo y compartirlo, pero no lo revendas. El Minecraft es de todos ❤️
+
+---
+
+Si necesitas ayuda o quieres sugerir mejoras, abre un issue o haz un pull request 👇  
+[¡Vamos a optimizar el Minecraft juntos!](https://github.com/Edward-e2o5h/ZeroLag-MC)
